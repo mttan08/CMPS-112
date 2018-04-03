@@ -1,0 +1,13 @@
+// Matthew Tan
+// mxtan
+// cs112
+// asg2: README
+
+1) bigint.ml: functions written for
+   the dc calculator
+2) maindc.ml: running bigint.ml
+3) scanner.ml: scanner for bigint.ml
+4) bigint.mli: list of files compiled by
+   bigint.ml
+5) scanner.mll: scanner.mlll for scanner.ml
+6) Makefile: running .ml and .mli programs
